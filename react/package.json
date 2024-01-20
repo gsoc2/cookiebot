@@ -3,7 +3,7 @@
     "test": "vtex-test-tools test"
   },
   "dependencies": {
-    "ramda": "^0.26.1"
+    "ramda": "^0.29.1"
   },
   "devDependencies": {
     "@apollo/react-testing": "^3.1.3",
